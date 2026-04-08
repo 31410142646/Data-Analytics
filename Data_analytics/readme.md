@@ -3,11 +3,11 @@ This project focuses on analyzing customer shopping behavior using SQL, Python, 
 The goal is to extract insights about purchasing patterns, customer segmentation, and sales trends to support data-driven decision-making.
 
 Objectives:
-Analyze customer purchasing behavior
-Identify frequent vs occasional buyers
-Understand sales trends across categories
-Perform data cleaning and transformation
-Build an interactive dashboard for insights
+Analyze customer purchasing behavior.
+Identify frequent vs occasional buyers.
+Understand sales trends across categories.
+Perform data cleaning and transformation.
+Build an interactive dashboard for insights.
 
 Tools & Technologies:
 Programming Language: Python(EDA,feature engineering,statistical analysis)
@@ -58,13 +58,13 @@ Measures
 Dynamic filters
 
 Key Insights
-Frequent customers contribute significantly to total revenue
-Seasonal trends impact purchasing behavior
-Customers with higher ratings tend to make repeat purchases
-Discounts and shipping types influence buying decisions
+1.Frequent customers contribute significantly to total revenue.
+2.Seasonal trends impact purchasing behavior.
+3.Customers with higher ratings tend to make repeat purchases.
+4.Discounts and shipping types influence buying decisions.
 
 Results & Conclusion
 The project successfully transforms raw data into actionable insights, helping to:
-Understand customer behavior
-Identify high-value customers
-Improve business strategies
+Understand customer behavior.
+Identify high-value customers.
+Improve business strategies.
