@@ -9,13 +9,13 @@ Understand sales trends across categories
 Perform data cleaning and transformation
 Build an interactive dashboard for insights
 
-Tools & Technologies
+Tools & Technologies:
 Programming Language: Python(EDA,feature engineering,statistical analysis)
 Database: MySQL(Data cleaning,views,aggregations,subqueries)
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Visualization Tool: Power BI(Dax,KPIs,Interactive dashboard
 
-Dataset Description
+Dataset Description:
 Contains customer transaction data
 Features include:
 Customer ID
