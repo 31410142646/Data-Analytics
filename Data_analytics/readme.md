@@ -18,23 +18,23 @@ Visualization Tool: Power BI(Dax,KPIs,Interactive dashboard
 Dataset Description:
 Contains customer transaction data
 Features include:
-Customer ID
-Age
-Gender
-Item Purchased
-Category
-Purchase Amount
-Location 
-Size
-Color
-Season
-Review Rating
-Subscription Status
-Shipping Type
-Discount Applied
-Promo Code Used
-Previous Purchases
-Payment Method Frequency Of Purchases
+1.Customer ID
+2.Age
+3.Gender
+4.Item Purchased
+5.Category
+6.Purchase Amount
+7.Location 
+8.Size
+9.Color
+10.Season
+11.Review Rating
+12.Subscription Status
+13.Shipping Type
+14.Discount Applied
+15.Promo Code Used
+16.Previous Purchases
+17.Payment Method Frequency Of Purchases
 
 Data Processing Steps
 1. Data Cleaning
