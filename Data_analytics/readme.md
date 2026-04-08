@@ -10,10 +10,10 @@ Perform data cleaning and transformation.
 Build an interactive dashboard for insights.
 
 Tools & Technologies:
-Programming Language: Python(EDA,feature engineering,statistical analysis)
-Database: MySQL(Data cleaning,views,aggregations,subqueries)
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Visualization Tool: Power BI(Dax,KPIs,Interactive dashboard
+Programming Language: Python(EDA,feature engineering,statistical analysis).
+Database: MySQL(Data cleaning,views,aggregations,subqueries).
+Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+Visualization Tool: Power BI(Dax,KPIs,Interactive dashboard.
 
 Dataset Description:
 Contains customer transaction data
@@ -36,7 +36,7 @@ Features include:
 16.Previous Purchases
 17.Payment Method Frequency Of Purchases
 
-Data Processing Steps
+Project workflow:
 1. Data Cleaning
 Modified columns
 Applied constraints for data integrity
@@ -57,13 +57,13 @@ KPIs
 Measures
 Dynamic filters
 
-Key Insights
+Key Insights:
 1.Frequent customers contribute significantly to total revenue.
 2.Seasonal trends impact purchasing behavior.
 3.Customers with higher ratings tend to make repeat purchases.
 4.Discounts and shipping types influence buying decisions.
 
-Results & Conclusion
+Results & Conclusion:
 The project successfully transforms raw data into actionable insights, helping to:
 Understand customer behavior.
 Identify high-value customers.
