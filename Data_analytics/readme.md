@@ -62,6 +62,8 @@ Key Insights:
 2.Seasonal trends impact purchasing behavior.
 3.Customers with higher ratings tend to make repeat purchases.
 4.Discounts and shipping types influence buying decisions.
+5.Free shipping type delivery tends to high customer purchasing behavior.
+6.There is high demand for M size products.Clothing category have high demand.
 
 Results & Conclusion:
 The project successfully transforms raw data into actionable insights, helping to:
